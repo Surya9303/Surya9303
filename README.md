@@ -1,5 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm Suryadev Chippada</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 (img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw3UOj4ie6ef4ucBxNfhUUvo&ust=1705317566653000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDPzpHh3IMDFQAAAAAdAAAAABAD")
