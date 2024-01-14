@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suryadev Chippada</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw3UOj4ie6ef4ucBxNfhUUvo&ust=1705317566653000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDPzpHh3IMDFQAAAAAdAAAAABAD")
 
 <p align="left"> <a href="https://twitter.com/surya_chip25016" target="blank"><img src="https://img.shields.io/twitter/follow/surya_chip25016?logo=twitter&style=for-the-badge" alt="surya_chip25016" /></a> </p>
 
